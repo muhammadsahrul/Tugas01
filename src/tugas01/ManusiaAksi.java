@@ -11,6 +11,6 @@ package tugas01;
  */
 public class ManusiaAksi {
     public static void main(String[] args) {
-        
+        Manusia Muhammad = new Manusia();
     }
 }
