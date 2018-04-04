@@ -18,5 +18,7 @@ public class ManusiaAksi {
         Muhammad.Celana="Celana Merah";
         Muhammad.KaosKaki="Kaos Kaki hitam";
         Muhammad.Sepatu="Sepatu Hitam";
+        
+        Muhammad.CetakInfo();
     }
 }

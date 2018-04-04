@@ -18,5 +18,7 @@ public class ManusiaAksi2 {
         Sahrul.Celana="Celana Kuning";
         Sahrul.KaosKaki="Kaos Kaki Hijau";
         Sahrul.Sepatu="Sepatu Ungu";
+        
+        Sahrul.CetakInfo();
     }
 }

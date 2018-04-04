@@ -18,5 +18,7 @@ public class ManusiaAksi3 {
         Gunawan.Celana="Celana Biru";
         Gunawan.KaosKaki="Kaos Kaki Kuning";
         Gunawan.Sepatu="Sepatu Habang";
+        
+        Gunawan.CetakInfo();
     }
 }
