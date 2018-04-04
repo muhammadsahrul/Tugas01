@@ -9,14 +9,14 @@ package tugas01;
  *
  * @author Acer E5 473G
  */
-public class ManusiaAksi {
+public class ManusiaAksi2 {
     public static void main(String[] args) {
-        Manusia Muhammad = new Manusia();
+        Manusia Sahrul = new Manusia();
         
-        Muhammad.Nama="Muhammad aja";
-        Muhammad.Baju="Baju Kuning";
-        Muhammad.Celana="Celana Merah";
-        Muhammad.KaosKaki="Kaos Kaki hitam";
-        Muhammad.Sepatu="Sepatu Hitam";
+        Sahrul.Nama="Sahrul pang";
+        Sahrul.Baju="Baju Habang";
+        Sahrul.Celana="Celana Kuning";
+        Sahrul.KaosKaki="Kaos Kaki Hijau";
+        Sahrul.Sepatu="Sepatu Ungu";
     }
 }
