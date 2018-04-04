@@ -10,5 +10,17 @@ package tugas01;
  * @author Acer E5 473G
  */
 public class Manusia {
+    String Rambut;
+    String Mata;
+    String Hidung;
+    String Telinga;
+    String Mulut;
     
+    void CetakInfo(){
+        System.out.println("Rambut  :"+Rambut);
+        System.out.println("Mata    :"+Mata);
+        System.out.println("Hidung  :"+Hidung);
+        System.out.println("Telinga :"+Telinga);
+        System.out.println("Mulut   :"+Mulut);
+    }
 }
